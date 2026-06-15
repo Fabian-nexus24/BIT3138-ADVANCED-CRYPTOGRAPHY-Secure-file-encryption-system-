@@ -1,0 +1,17 @@
+# Microsoft Office temporary files
+~$*
+
+# Python cache
+__pycache__/
+*.pyc
+Generated encryption files
+aes_key.key
+*.enc
+secret_decrypted.txt
+
+# VS Code settings
+.vscode/
+# RSA generated files
+private_key.pem
+public_key.pem
+*.bin
